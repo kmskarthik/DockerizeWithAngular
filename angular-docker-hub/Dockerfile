@@ -1,0 +1,1 @@
+FROM kmskarthik/angular-client:latest
